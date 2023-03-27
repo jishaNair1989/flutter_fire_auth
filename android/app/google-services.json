@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "510861259687",
+    "project_id": "rolebased-47f22",
+    "storage_bucket": "rolebased-47f22.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510861259687:android:a0f2eb78e94cd352dabc82",
+        "android_client_info": {
+          "package_name": "com.example.fluttertask_fininfocom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510861259687-rhs21781tcp0m62t7rgculnk7vgtvg2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiJ_8iry3_uVT9mgrLzHO8NRTer2QeZKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510861259687-rhs21781tcp0m62t7rgculnk7vgtvg2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
